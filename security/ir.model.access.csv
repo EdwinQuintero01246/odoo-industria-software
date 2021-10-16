@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+mimodulo_app_full_access,mimodulo_app_full_access,model_mimodulo_app,,1,1,1,1
